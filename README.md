@@ -4,7 +4,7 @@ This repository contains the complete, professional **Software Requirements Spec
 
 ## 📄 Full Documentation
 Aap poora professional SRS document yahan se dekh aur download kar sakte hain:
-- [📥 Click Here to View Full SRS PDF File](./)
+- [📥 Download Full SRS PDF File](./Software%20Requirements%20Specifications.pdf)
 ---
 
 ## 🎯 System Scope & Objectives
