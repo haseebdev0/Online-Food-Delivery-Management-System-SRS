@@ -3,8 +3,7 @@
 This repository contains the complete, professional **Software Requirements Specification (SRS)** document for an Online Food Delivery Management System. The documentation follows standard IEEE software engineering guidelines, covering requirements elicitation, system architecture, structural design, and behavioral workflows.
 
 ## 📄 Full Documentation
-Aap poora professional SRS document yahan se dekh aur download kar sakte hain:
-- [📥 Click Here to View Full SRS PDF File](Software%20Requirements%20Specifications.pdf)
+- 📥 **Note:** The complete professional SRS PDF document is uploaded directly in this repository as **"Software Requirements Specifications.pdf"**. You can click the download icon next to the file at the top of this page to view or download it directly!
 ---
 
 ## 🎯 System Scope & Objectives
